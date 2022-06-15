@@ -20,5 +20,5 @@ Here we will apply the knowledge that we have acquired during the learning of th
 -----------------------------
 **Authors**
 =========
-- [Abenezer Abera](https://github.com/Abenina14).
-- [Lemi Fedesa](https://github.com/Lemifd).
+-[Abenezer Abera](https://github.com/Abenina14).
+-[Lemi Fedesa](https://github.com/Lemifd)
